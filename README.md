@@ -3,7 +3,6 @@
 **CheckMATE** is an innovative machine learning application designed to enhance school environments. With features such as smart attendance tracking, school attribute detection, and mood tracking, CheckMATE supports teachers and parents in monitoring student discipline effectively.  
 
 ## Demo Video
-## Demo Video
 [![Watch the video](https://img.youtube.com/vi/7wvKC12e-q4/maxresdefault.jpg)](https://youtu.be/7wvKC12e-q4)
 
 ## Key Features  
